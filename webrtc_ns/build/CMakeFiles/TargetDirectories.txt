@@ -1,0 +1,3 @@
+/mnt/hgfs/share/3rd_project/webrtc-master/webrtc_ns/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/3rd_project/webrtc-master/webrtc_ns/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/3rd_project/webrtc-master/webrtc_ns/build/CMakeFiles/webrtc_ns_example.dir
